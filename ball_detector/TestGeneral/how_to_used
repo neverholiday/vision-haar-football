@@ -1,0 +1,1 @@
+python crop_edit.py --input ../image/ball0.jpg --output ../image/crop/positive/ --mode positive
